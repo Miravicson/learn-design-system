@@ -159,14 +159,6 @@ const LinkWrapperComponent = styled(
 `;
 
 const applyStyle = (LinkWrapper) => {
-  // return (
-  //   LinkWrapper &&
-  //   styled(({ containsIcon, inverse, nochrome, secondary, tertiary, ...linkWrapperRest }) => (
-  //     <LinkWrapper {...linkWrapperRest} />
-  //   ))`
-  //     ${linkStyles};
-  //   `
-  // );
   return (
     LinkWrapper &&
     ((props) => <LinkWrapperComponent LinkWrapper={LinkWrapper} {...props} />)
