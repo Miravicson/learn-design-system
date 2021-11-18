@@ -11,7 +11,5 @@ module.exports = {
     "@storybook/addon-essentials",
     "@storybook/preset-create-react-app",
     "@storybook/addon-a11y",
-    "@storybook/addon-docs",
   ],
-  // presets: ["@storybook/addon-docs/preset"],
 };
