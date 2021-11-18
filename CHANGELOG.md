@@ -1,3 +1,16 @@
+# v0.2.1 (Thu Nov 18 2021)
+
+#### ⚠️ Pushed to `main`
+
+- Merge branch 'main' of github.com:Miravicson/learn-design-system ([@Miravicson](https://github.com/Miravicson))
+- modified the release command to specify the base branch name. ([@Miravicson](https://github.com/Miravicson))
+
+#### Authors: 1
+
+- Victor Chiagozie Ughonu ([@Miravicson](https://github.com/Miravicson))
+
+---
+
 # v0.2.0 (Thu Nov 18 2021)
 
 #### 🚀 Enhancement
